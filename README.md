@@ -4,5 +4,7 @@ THINGS I LEARN
 
 ![Recording 2024-03-02 192945](https://github.com/subodh245/zustand-react-state-manangement/assets/118099441/0d5fd8e3-a901-44f3-b349-82e4f5615765)
 i have intigrated it to redux using zustand middlewere where we can debug in the browser and i have made the custom middlewere to printing every thing i do in console and i have done setup to run tests by zustand unit test and ran test
+![Screenshot 2024-03-02 202109](https://github.com/subodh245/zustand-react-state-manangement/assets/118099441/48106ffd-b206-42b8-9937-1f0026bb1352)
+
 
 
